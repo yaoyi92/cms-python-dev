@@ -4,6 +4,7 @@ This is the start of testing.txt
 
 add testing.txt
 Now I added a new line!
+I added this line from the GitHub web interface!
 
 ************************************
 This is the end of testing.txt
