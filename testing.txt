@@ -3,6 +3,9 @@ This is the start of testing.txt
 ************************************
 
 add testing.txt
+Now I added a new line!
+I added this line from the GitHub web interface!
+This line was added by Matt Mansell (7/9/2018 15:42).
 
 ************************************
 This is the end of testing.txt
