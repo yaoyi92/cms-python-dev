@@ -2,7 +2,7 @@
 Miscellaneous list manipulation
 """
 
-def split(num_lst, index):
+def split(in_list, index):
     """
     
     Parameters
